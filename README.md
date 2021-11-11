@@ -1,6 +1,7 @@
 # Flutter Image Picker From Camera And Gallery
 
-A new Flutter project.
+![Screenshot_1636629652](https://user-images.githubusercontent.com/87581799/141289599-72e5134d-8b39-4eab-acb2-0e4b87b98a64.png)
+
 
 ## Getting Started
 
